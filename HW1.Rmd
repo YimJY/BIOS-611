@@ -19,6 +19,8 @@
     ```
     
     Answer: The code above is naming the data points as "blue", instead of making the color of data points into blue. To correct this, the code should be `aes(x = displ, y = hwy), color = "blue".`
+    
+    
 
     ```{r}
     
